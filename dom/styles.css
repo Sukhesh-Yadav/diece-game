@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: #f6d198;
+}
+a{
+  color: #7EBDB4;
+  font-family: 'Shadows Into Light', cursive;
+  text-decoration: none;
+}
+
+.title{
+  font-size: 100px;
+  margin-bottom: 0;
+  margin-top: 100px;
+  color: #7EBDB4;
+  font-family: 'Shadows Into Light', cursive;
+}
+.game{
+  font-family: 'Shadows Into Light', cursive;
+  color: #7EBDB4;
+  font-size: 40px;
+  display: inline-block;
+  padding: 0 50px;
+}
